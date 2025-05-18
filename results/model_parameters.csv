@@ -1,0 +1,14 @@
+Model Name,Number of Parameters
+shufflenet_v2_x1_0,1274104
+squeezenet1_1,732756
+vgg19,139652180
+swin_v2_b,86926348
+regnet_x_32gf,105340980
+inception_v3,21826548
+mobilenet_v2,2249492
+resnet50,23549012
+densenet121,6974356
+efficientnet_b0,4033168
+vit_b_16,85814036
+convnext,87586964
+maxvit,30417864

@@ -1,0 +1,22 @@
+Class,Train Samples,Test Samples,Total Samples
+coral,1562,348,1910
+crab,43,11,54
+diver,51,13,64
+eel,160,41,201
+fish,2200,538,2738
+fishInGroups,272,72,344
+flatworm,50,13,63
+jellyfish,97,25,122
+marine_dolphin,20,10,30
+octopus,20,10,30
+rayfish,382,95,477
+seaAnemone,890,221,1111
+seaCucumber,35,10,45
+seaSlug,79,20,99
+seaUrchin,115,29,144
+shark,71,19,90
+shrimp,22,11,33
+squid,24,10,34
+starfish,166,40,206
+turtle,300,76,376
+Total,6559,1612,8171
