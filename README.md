@@ -4,7 +4,7 @@ The AQUA20 dataset is a comprehensive benchmark dataset designed for **underwate
 
 The dataset was presented in the paper [AQUA20: A Benchmark Dataset for Underwater Species Classification under Challenging Conditions](https://arxiv.org/abs/2506.17455).
 
-## Sample Usage
+## Loading Dataset with Hugging Face
 
 You can easily load the AQUA20 dataset using the Hugging Face `datasets` library:
 
@@ -36,16 +36,24 @@ print(f"Example label: {label} (Class Name: {train_dataset.features['label'].nam
 # plt.show()
 ```
 
+## Reproducing the Results
+
+To reproduce the results using the provided notebook [`Aqua20_Main.ipynb`](./Aqua20_Main.ipynb), you only need to modify the following parameters located in the **first code cell**:
+
+- `TRAIN_DIR`: Path to the directory containing training images
+- `TEST_DIR`: Path to the directory containing test images
+- `TARGET_DIR`: Path where results will be saved
+
 ## Citation
 
 ```bibtex
 @misc{fuad2025aqua20benchmarkdatasetunderwater,
-      title={AQUA20: A Benchmark Dataset for Underwater Species Classification under Challenging Conditions}, 
+      title={AQUA20: A Benchmark Dataset for Underwater Species Classification under Challenging Conditions},
       author={Taufikur Rahman Fuad and Sabbir Ahmed and Shahriar Ivan},
       year={2025},
       eprint={2506.17455},
       archivePrefix={arXiv},
       primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2506.17455}, 
+      url={https://arxiv.org/abs/2506.17455},
 }
 ```
