@@ -47,13 +47,18 @@ To reproduce the results using the provided notebook [`Aqua20_Main.ipynb`](./Aqu
 ## Citation
 
 ```bibtex
-@misc{fuad2025aqua20benchmarkdatasetunderwater,
-      title={AQUA20: A Benchmark Dataset for Underwater Species Classification under Challenging Conditions},
-      author={Taufikur Rahman Fuad and Sabbir Ahmed and Shahriar Ivan},
-      year={2025},
-      eprint={2506.17455},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2506.17455},
+@article{fuadAQUA20BenchmarkDataset2026,
+	title = {{AQUA20}: {A} {Benchmark} {Dataset} for {Underwater} {Species} {Classification} under {Challenging} {Conditions}},
+	issn = {2191-4281},
+	shorttitle = {{AQUA20}},
+	url = {https://doi.org/10.1007/s13369-026-11231-z},
+	doi = {10.1007/s13369-026-11231-z},
+	language = {en},
+	urldate = {2026-03-27},
+	journal = {Arabian Journal for Science and Engineering},
+	author = {Fuad, Taufikur Rahman and Ahmed, Sabbir and Ivan, Shahriar},
+	month = mar,
+	year = {2026},
+	keywords = {AQUA20, Environmental challenges, Explainable deep learning, Marine species classification, Underwater visual recognition, Vision transformers and lightweight CNNs},
 }
 ```
