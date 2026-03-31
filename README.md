@@ -2,7 +2,7 @@
 
 The AQUA20 dataset is a comprehensive benchmark dataset designed for **underwater species classification** under challenging real-world conditions. It comprises 8,171 underwater images across 20 distinct marine species, specifically curated to reflect environmental complexities such as turbidity, low illumination, and occlusion, which commonly degrade the performance of standard vision systems. This dataset provides a valuable resource for advancing robust visual recognition in aquatic environments.
 
-The dataset was presented in the paper [AQUA20: A Benchmark Dataset for Underwater Species Classification under Challenging Conditions](https://arxiv.org/abs/2506.17455).
+The dataset was presented in the paper [AQUA20: A Benchmark Dataset for Underwater Species Classification under Challenging Conditions](https://doi.org/10.1007/s13369-026-11231-z).
 
 ## Loading Dataset with Hugging Face
 
